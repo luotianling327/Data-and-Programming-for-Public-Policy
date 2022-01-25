@@ -1,0 +1,6 @@
+,energy type,price,emissions,production,export/import
+0,coal,,decrease,flat,export
+1,nuclear,,,flat,
+2,wind,decrease,,increase,
+3,solar,decrease,,increase,
+4,oil,increase,increase,increase,export
