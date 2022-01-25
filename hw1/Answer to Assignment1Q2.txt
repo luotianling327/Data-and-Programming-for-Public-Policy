@@ -1,0 +1,21 @@
+2(a)
+The states with the top five share of manufacturing employment in 2000 
+are Indiana, Wisconsin, Michigan, Arkansas, and North Carolina.
+
+2(b)
+The states and industries having the top 5 highest concentration of employment in 2000 are:
+state                 Industry
+District of Columbia  Government and government enterprises    0.327406
+Alaska                Government and government enterprises    0.248069
+Hawaii                Government and government enterprises    0.221494
+New Mexico            Government and government enterprises    0.209680
+Wyoming               Government and government enterprises    0.199986
+
+
+The states and industries having the top 5 highest concentration of employment in 2017 are:
+state                 Industry
+District of Columbia  Government and government enterprises    0.277521
+Alaska                Government and government enterprises    0.225462
+Hawaii                Government and government enterprises    0.197694
+New Mexico            Government and government enterprises    0.187749
+Wyoming               Government and government enterprises    0.187475
